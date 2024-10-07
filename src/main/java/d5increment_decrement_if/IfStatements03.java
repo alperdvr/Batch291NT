@@ -37,6 +37,13 @@ public class IfStatements03 {
         }
 
 
+        // Arastırma: Java else dogruysa else if'e bakar mi ?
+
+       // Java'da else if ve else blokları, yalnızca kendilerinden önceki koşullar sağlanmadığında değerlendirilir. Eğer bir if koşulu doğruysa, else if ve else blokları çalıştırılmaz. Yani, else if veya else'e ancak öncesindeki tüm if ve else if koşulları yanlış olduğunda geçiş yapılır.
+
+
+
+
 
     }
 }
