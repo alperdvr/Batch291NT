@@ -7,14 +7,14 @@ public class Vehicle {
 
     //Constructor olusturalim
     public Vehicle(){
-        super();
+        this("Honda", 2024, "Elektrikli");
         System.out.println("Honda, 2023, Benzin");
     }
     public Vehicle(String marka, int yil, String motor){
         super();
         System.out.println("Honda, 2024, Elektrikli");
-
     }
+
 
 
 }
